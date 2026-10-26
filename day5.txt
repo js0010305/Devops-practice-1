@@ -1,1 +1,2 @@
 Day 5: Practicing Pull Requests
+ Resolving the conflict for day6 practice 
